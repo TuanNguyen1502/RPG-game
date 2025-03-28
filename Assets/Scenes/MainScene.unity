@@ -106583,7 +106583,7 @@ MonoBehaviour:
   cooldown: 0
   cooldownTimer: 0
   swordType: 0
-  bounceAmount: 8
+  bounceAmount: 3
   bounceGravity: 1
   bounceSpeed: 20
   pierceAmount: 2
